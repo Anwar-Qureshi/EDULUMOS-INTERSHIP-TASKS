@@ -31,4 +31,5 @@ The dashboard was designed to answer several key questions:
 
 ## 5. Final Dashboard Screenshot
 
-![Student Performance Dashboard](image_309e37.jpg)
+
+![Student Performance Dashboard](AnwarQureshi_Week1Task_Screenshot.png)
