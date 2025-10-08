@@ -1,34 +1,36 @@
-# Week 2: House Price Prediction using Linear Regression
+# EduLumos - Data Science Internship Portfolio
 
-**Intern:** Mohammed Anwar Qureshi
-**Task:** Task 02 - Linear Regression using a Simple Dataset
+Hi there! 👋 I'm Mohammed Anwar Qureshi, a Data Science Intern at EduLumos. This repository serves as a portfolio of the projects I've completed during my internship, showcasing my journey and the skills I'm developing in data analysis, visualization, and machine learning.
 
 ---
 
-## 1. Project Goal
+## 📂 Projects
 
-The objective of this project was to build a machine learning model to predict house prices based on various features of the property and its location. This was accomplished using Python and the Scikit-learn library.
+Here is a summary of the weekly tasks I have completed. As I complete more tasks, I will update this table.
 
-## 2. Project Workflow
+| Week | Project Title | Key Skills & Tools | Link to Project Folder |
+|:---:|:---|:---|:---:|
+| 01 | **Student Performance Dashboard** | `Power BI`, `Data Visualization`, `DAX`, `Excel` | [View Project](./Week1_Student_Dashboard/) |
+| 02 | **House Price Prediction Model** | `Python`, `Pandas`, `Scikit-learn`, `Linear Regression` | [View Project](./Week2_House_Price_Prediction/) |
+| 03 | *(Upcoming)* | *(Upcoming)* | *(Link will be added)* |
 
-The project followed a standard data science workflow:
-1.  **Data Loading & Initial Inspection:** Loaded the USA Housing dataset and checked for data quality.
-2.  **Exploratory Data Analysis (EDA):** Visualized the data to understand relationships, distributions, and correlations, particularly with the `Price`.
-3.  **Data Preprocessing:** Prepared the data for modeling by separating features and target, and splitting them into training and testing sets.
-4.  **Model Building & Training:** Built and trained a Linear Regression model.
-5.  **Model Evaluation:** Assessed the model's performance on unseen data, achieving an **R-squared score of over 91%**.
-6.  **Prediction:** Used the final trained model to predict the price of a hypothetical new house.
+---
 
-## 3. Tools and Libraries Used
+## 🛠️ Tech Stack & Skills
 
-* **Python**
-* **Pandas & NumPy:** For data manipulation.
-* **Matplotlib & Seaborn:** For data visualization.
-* **Scikit-learn:** For building and evaluating the Linear Regression model.
+Here are some of the key technologies I'm working with during this internship:
 
-## 4. Key Visualization
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-The scatter plot below shows a strong linear relationship between the actual house prices and the prices predicted by the model, confirming its high accuracy.
+---
 
+## 🔗 Connect With Me
 
-![Actual vs. Predicted Prices Scatter Plot](AnwarQureshi_Week2Task_Screenshot.png)
+I'm always open to connecting with other professionals and students in the tech space. Feel free to connect with me on LinkedIn!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-anwar-qureshi-684598321/)
