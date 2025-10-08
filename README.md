@@ -30,4 +30,5 @@ The project followed a standard data science workflow:
 
 The scatter plot below shows a strong linear relationship between the actual house prices and the prices predicted by the model, confirming its high accuracy.
 
-![Actual vs. Predicted Prices Scatter Plot](YourScreenshotName.png)
+
+![Actual vs. Predicted Prices Scatter Plot](AnwarQureshi_Week2Task_Screenshot.png)
