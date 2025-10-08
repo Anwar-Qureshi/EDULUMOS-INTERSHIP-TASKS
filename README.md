@@ -1,35 +1,33 @@
-# EDULUMOS Internship - Week 1 Project Submission
+# Week 2: House Price Prediction using Linear Regression
 
 **Intern:** Mohammed Anwar Qureshi
-**Date:** October 1, 2025
-**Task:** Task 01 - Data Analysis & Data Visualization – Student Data Analysis
+**Task:** Task 02 - Linear Regression using a Simple Dataset
 
 ---
 
-## 1. Project Description
+## 1. Project Goal
 
-This project involved cleaning, analyzing, and visualizing a comprehensive dataset of 2,000 students to uncover insights into their academic performance and the factors influencing it. The final output is an interactive, one-page dashboard.
+The objective of this project was to build a machine learning model to predict house prices based on various features of the property and its location. This was accomplished using Python and the Scikit-learn library.
 
-## 2. Tools Used
+## 2. Project Workflow
 
-* **Microsoft Excel:** For initial data review.
-* **Microsoft Power BI:** For data modeling, analysis, and building the interactive dashboard.
+The project followed a standard data science workflow:
+1.  **Data Loading & Initial Inspection:** Loaded the USA Housing dataset and checked for data quality.
+2.  **Exploratory Data Analysis (EDA):** Visualized the data to understand relationships, distributions, and correlations, particularly with the `Price`.
+3.  **Data Preprocessing:** Prepared the data for modeling by separating features and target, and splitting them into training and testing sets.
+4.  **Model Building & Training:** Built and trained a Linear Regression model.
+5.  **Model Evaluation:** Assessed the model's performance on unseen data, achieving an **R-squared score of over 91%**.
+6.  **Prediction:** Used the final trained model to predict the price of a hypothetical new house.
 
-## 3. Key Questions Answered
+## 3. Tools and Libraries Used
 
-The dashboard was designed to answer several key questions:
-* How is the student body performing as a whole?
-* Which academic subjects are the most challenging?
-* What is the relationship between study hours and academic success?
-* How do external factors like part-time employment impact student scores?
+* **Python**
+* **Pandas & NumPy:** For data manipulation.
+* **Matplotlib & Seaborn:** For data visualization.
+* **Scikit-learn:** For building and evaluating the Linear Regression model.
 
-## 4. Key Insights
+## 4. Key Visualization
 
-* A clear positive correlation was found between weekly study hours and average scores.
-* Physics and Chemistry were identified as the subjects with the lowest average scores, suggesting they are the most challenging.
-* Students without part-time jobs consistently outperform their peers who are employed.
+The scatter plot below shows a strong linear relationship between the actual house prices and the prices predicted by the model, confirming its high accuracy.
 
-## 5. Final Dashboard Screenshot
-
-
-![Student Performance Dashboard](AnwarQureshi_Week1Task_Screenshot.png)
+![Actual vs. Predicted Prices Scatter Plot](YourScreenshotName.png)
