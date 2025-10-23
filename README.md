@@ -13,7 +13,8 @@ Here is a summary of the weekly tasks I have completed. As I complete more tasks
 | 01 | **Student Performance Dashboard** | `Power BI`, `Data Visualization`, `DAX`, `Excel` | [View Project](./Week1_Student_Dashboard/) |
 | 02 | **House Price Prediction Model** | `Python`, `Pandas`, `Scikit-learn`, `Linear Regression` | [View Project](./Week2_House_Price_Prediction/) |
 | 03 | **EDA On Netflix Data**  |  `Python`,`Pandas`,`Matplotlib`,`Seaborn`, `EDA`  | [View Project](./Week3_Netflix_EDA/) |
-| 04 | *(Upcoming)* | *(Upcoming)* | *(Link will be added)* |
+| 04 | **EDA On Titanic Data**  | `Python`, `Numpy`, `Pandas`, `Visualisation`, `EDA`  | [View Project](./Week4_Titanic_EDA/) |
+| 05 | *(Upcoming)* | *(Upcoming)* | *(Link will be added)* |
 
 ---
 
@@ -35,4 +36,5 @@ Here are some of the key technologies I'm working with during this internship:
 I'm always open to connecting with other professionals and students in the tech space. Feel free to connect with me on LinkedIn!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-anwar-qureshi-684598321/)
+
 
