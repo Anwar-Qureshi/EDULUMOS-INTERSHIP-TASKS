@@ -37,4 +37,4 @@ The objective was to perform a deep Exploratory Data Analysis (EDA) on the class
 
 The violin plot below effectively visualizes the complex interaction between Age, Passenger Class, and Survival status, highlighting different survival patterns across socio-economic groups.
 
-![Age Distribution by Class and Survival](age_class_survival_violin.png)
+![Age Distribution by Class and Survival](age_class_survival_violin.jpg)
